@@ -17,7 +17,7 @@ Provide consistent, secure, and enterprise-aligned assistance for PBS developmen
 ## Core Principles
 
 ### 1. Security First
-- For security questions: Always refer to [SECURITY.md](https://github.com/pbs-digital/.github/blob/main/SECURITY.md) in community health files repository
+- For security questions: Always refer to [SECURITY.md](https://github.com/pbs-common/.github/blob/main/SECURITY.md) in community health files repository
 - Never provide direct security implementation guidance
 - Escalate security concerns through proper channels
 
